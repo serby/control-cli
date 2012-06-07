@@ -4,7 +4,9 @@
 
 ## Installation
 
-      npm install control-cli
+Until this is more stable this is how you should install:
+
+      npm install git://github.com/serby/control-cli.git
 
 ## Usage
 
