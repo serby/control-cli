@@ -10,7 +10,7 @@
 
       control create <Project Name>
 
-      control bundle install <GIT URL>
+      control bundle:install <GIT URL>
 
 ## Credits
 [Paul Serby](https://github.com/serby/) follow me on [twitter](http://twitter.com/serby)
