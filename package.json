@@ -1,0 +1,30 @@
+{
+  "author": "Paul Serby <paul@serby.net>",
+  "name": "control-cli",
+  "description": "Command line helper tool for building projects with control CMS",
+  "version": "0.0.1",
+  "tags": ["cli"],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:serby/console-cli"
+  },
+  "bin": {
+    "control": "control.js"
+  },
+  "scripts": {
+    "test": "mocha -r should"
+  },
+  "engines": {
+    "node": ">0.6.0"
+  },
+  "dependencies": {
+    "commander": "~0.6.1",
+    "colors": "~0.6",
+    "async": "~0.1.22",
+    "wrench": "~1.3.9"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
