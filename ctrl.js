@@ -8,8 +8,8 @@ program
 
 program
   .command('create')
-    .description('Creates a new instance of control CMS')
-    .option('-p, --path [path]', 'Where to create a new instance of control')
+    .description('Creates a new instance of ctrl CMS')
+    .option('-p, --path [path]', 'Where to create a new instance of ctrl')
     .action(require('./lib/create'));
 
 program
