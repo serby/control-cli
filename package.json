@@ -1,7 +1,7 @@
 {
   "author": "Paul Serby <paul@serby.net>",
-  "name": "control-cli",
-  "description": "Command line helper tool for building projects with control CMS",
+  "name": "ctrl-cli",
+  "description": "Command line helper tool for building projects with ctrl CMS",
   "version": "0.0.1",
   "tags": ["cli"],
   "repository": {
@@ -9,7 +9,7 @@
     "url": "git@github.com:serby/console-cli"
   },
   "bin": {
-    "control": "control.js"
+    "ctrl": "ctrl.js"
   },
   "scripts": {
     "test": "mocha -r should"

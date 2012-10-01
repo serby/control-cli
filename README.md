@@ -1,18 +1,18 @@
-# control-cli - Command line helper tool for building projects with control CMS
+# ctrl-cli - Command line helper tool for building projects with ctrl CMS
 
-[![build status](https://secure.travis-ci.org/serby/###.png)](http://travis-ci.org/serby/control-cli)
+[![build status](https://secure.travis-ci.org/serby/###.png)](http://travis-ci.org/serby/ctrl-cli)
 
 ## Installation
 
 Until this is more stable this is how you should install:
 
-      npm install git://github.com/serby/control-cli.git
+      npm install git://github.com/serby/ctrl-cli.git
 
 ## Usage
 
-      control create <Project Name>
+      ctrl create <Project Name>
 
-      control bundle:install <GIT URL>
+      ctrl bundle:install <GIT URL>
 
 ## Credits
 [Paul Serby](https://github.com/serby/) follow me on [twitter](http://twitter.com/serby)
