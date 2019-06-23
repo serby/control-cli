@@ -1,6 +1,6 @@
 # ctrl-cli - Command line helper tool for building projects with ctrl CMS
 
-[![build status](https://secure.travis-ci.org/serby/###.png)](http://travis-ci.org/serby/ctrl-cli)
+[![build status](https://secure.travis-ci.org/serby/###.png)](http://travis-ci.org/serby/ctrl-cli) [![Greenkeeper badge](https://badges.greenkeeper.io/serby/control-cli.svg)](https://greenkeeper.io/)
 
 ## Installation
 
